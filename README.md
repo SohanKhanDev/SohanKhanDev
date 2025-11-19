@@ -26,8 +26,7 @@
 <h3 align="left">🌱 Currently Learning</h3>
 <ul align="left">
   <li>**React.js Fundamentals** and essential state management (like Hooks) to build dynamic user interfaces.</li>
-  <li>**Cloud Fundamentals:** Learning the basics of **Serverless Functions** (e.g., AWS Lambda or Firebase Functions) for backend logic.</li>
-  <li>**Data Structures & Algorithms (DSA):** Building a strong foundation in core DSA to improve problem-solving and code efficiency.</li>
+  <li>**Cloud Fundamentals:** Learning the basics of **Serverless Functions** (e.g., Firebase Functions) for backend logic.</li>
 </ul>
 
 <br />
