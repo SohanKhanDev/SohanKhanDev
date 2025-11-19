@@ -76,7 +76,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/SohanKhanDev">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=SohanKhanDev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,3533cd&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=SohanKhanDev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,2A005B&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -84,7 +84,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/SohanKhanDev">
-          <img align="center" src="https://streak-stats.demolab.com?user=SohanKhanDev&theme=nightowl&background=0,000000,3533cd&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=SohanKhanDev&theme=nightowl&background=0,000000,2A005B&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -95,32 +95,30 @@
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    ![Snake Grid](https://raw.githubusercontent.com/SohanKhanDev/contribution-snake/main/output/grid.svg)
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohanKhanDev&bg_color=3533cd&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://raw.githubusercontent.com/SohanKhanDev/contribution-snake/main/output/grid.svg" alt="Snake Grid" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohanKhanDev&bg_color=2A005B&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20want%20to%20find%20the%20secrets%20of%20the%20universe%2C%20think%20in%20terms%20of%20energy%2C%20frequency%20and%20vibration.%20&theme=dark&bg_color=3533cd&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20want%20to%20find%20the%20secrets%20of%20the%20universe%2C%20think%20in%20terms%20of%20energy%2C%20frequency%20and%20vibration.%20&theme=dark&bg_color=2A005B&author_color=ffeb95&accent_color=c56a90">
 </p>
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
 <a href="mailto:sohankhandev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sohankhandev@gmail.com" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sohankhandev@gmail.com" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/[Your_LinkedIn_Profile]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 </div>
 <br/>
-<br/>
 
- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
