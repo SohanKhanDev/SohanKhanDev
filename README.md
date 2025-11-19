@@ -5,7 +5,7 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sᴏʜᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+*MERN DEVELOPER*
 <br /> 
 
                
@@ -13,10 +13,8 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://sohankhandev.github.io) for more details about me. (Remember to update this link!)
+- 💻 Visit my [Portfolio](https://sohankhandev.github.io) for more details about me.
 - ❤ Contributing to Open Source.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/sohankhandev). (Remember to update this link!)
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=SohanKhanDev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SohanKhanDev" style="padding-right:20px;" />
 </p>
 
