@@ -5,7 +5,7 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sᴏʜᴀɴ! 
-*Full Stack Developer*
+*Web Developer*
 <br /> 
 
                
@@ -14,7 +14,6 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://sohankhandev.github.io) for more details about me. **(Update this link!)**
 <br />
 
 <p align="left">
