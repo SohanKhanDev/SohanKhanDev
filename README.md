@@ -5,25 +5,35 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sᴏʜᴀɴ! 
-*MERN DEVELOPER*
+*Full Stack Developer*
 <br /> 
 
                
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a passionate **Full Stack Developer** specializing in the MERN stack (MongoDB, Express, React, Node) and Next.js. I focus on building dynamic, high-performance web applications and love exploring modern development practices. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://sohankhandev.github.io) for more details about me.
 - ❤ Contributing to Open Source.
-  <br /> 
+- 💻 Visit my [Portfolio](https://sohankhandev.github.io) for more details about me. **(Update this link!)**
+<br />
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=SohanKhanDev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SohanKhanDev" style="padding-right:20px;" />
 </p>
 
 ---
 
+<h3 align="left">🌱 Currently Learning</h3>
+<ul align="left">
+  <li>**React.js Fundamentals** and essential state management (like Hooks) to build dynamic user interfaces.</li>
+  <li>**Cloud Fundamentals:** Learning the basics of **Serverless Functions** (e.g., AWS Lambda or Firebase Functions) for backend logic.</li>
+  <li>**Data Structures & Algorithms (DSA):** Building a strong foundation in core DSA to improve problem-solving and code efficiency.</li>
+</ul>
+
+<br />
 
        
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<h2 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 
 <br />
 
@@ -37,20 +47,19 @@
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 | **Tools/VCS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-<br />
-  
 
 <br />
-<br />
-<br />
 
+---
+
+<br />
 
    
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/SohanKhanDev">
     <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SohanKhanDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SohanKhanDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SohanKhanDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=SohanKhanDev&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
@@ -108,12 +117,10 @@
 
 ---
 
- 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20want%20to%20find%20the%20secrets%20of%20the%20universe%2C%20think%20in%20terms%20of%20energy%2C%20frequency%20and%20vibration.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
- 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
@@ -125,6 +132,10 @@
 <a href="https://www.linkedin.com/in/[Your_LinkedIn_Profile]" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
-
 </div>
 <br/>
+
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
