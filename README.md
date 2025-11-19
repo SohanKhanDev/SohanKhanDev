@@ -95,6 +95,7 @@
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
+    ![Snake Grid](https://github.com/SohanKhanDev/contribution-snake/blob/output/grid.svg)
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohanKhanDev&bg_color=3533cd&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
