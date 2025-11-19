@@ -38,21 +38,8 @@
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 | **Tools/VCS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 <br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
   
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="[Your Blog Link 1]">🔥 [Your Blog Title 1] 🤖</a></li>
-  <li><a href="[Your Blog Link 2]">🔥 [Your Blog Title 2] 🙂</a></li>
-  <li><a href="[Your Blog Link 3]">I Tried Out [Something New]🤯</a></li>
-</ul>
-<br />
+
 <br />
 <br />
 <br />
@@ -135,34 +122,9 @@
 <img src="./gmail.png" width=50 height=50 alt="sohankhandev@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/[Your_Twitter_Handle]" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/[Your_Instagram_Handle]" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.githubcom/SohanKhanDev" target="_blank">
-<img src="./github.png" width=50 height=50 alt="SohanKhanDev" style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://www.linkedin.com/in/[Your_LinkedIn_Profile]" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/[Your_Dev.to_Handle]" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev.to" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/[Your_BMC_Handle]" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
-
-
- 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
