@@ -93,7 +93,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-                <a href="https://github.com/SohanKhanDev/latest-project-name">
+                <a href="https://github.com/SohanKhanDev/ankur-server">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=SohanKhanDev&repo=latest-project-name&theme=nightowl&show_owner=true&bg_color=0,000000,3533cd&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
@@ -119,20 +119,21 @@
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20want%20to%20find%20the%20secrets%20of%20the%20universe%2C%20think%20in%20terms%20of%20energy%2C%20frequency%20and%20vibration.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nikola%20Tesla&quote=If%20you%20want%20to%20find%20the%20secrets%20of%20the%20universe%2C%20think%20in%20terms%20of%20energy%2C%20frequency%20and%20vibration.%20&theme=dark&bg_color=3533cd&author_color=ffeb95&accent_color=c56a90">
 </p>
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
 <a href="mailto:sohankhandev@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="sohankhandev@gmail.com" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sohankhandev@gmail.com" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/[Your_LinkedIn_Profile]" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 </div>
+<br/>
 <br/>
 
  
