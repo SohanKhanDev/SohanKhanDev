@@ -12,7 +12,6 @@
 <p align="left">I am a passionate **Full Stack Developer** specializing in the MERN stack (MongoDB, Express, React, Node) and Next.js. I focus on building dynamic, high-performance web applications and love exploring modern development practices. </p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
 <br />
 
